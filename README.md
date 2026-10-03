@@ -1,13 +1,13 @@
-# Graficon Website
+# Grafiqon Website
 
-A responsive, GitHub Pages-ready static website concept for **Graficon — Printing Solutions Beyond Borders**.
+A responsive, GitHub Pages-ready static website concept for **Grafiqon — Printing Solutions Beyond Borders**.
 
 ## Files
 
 - `index.html` — page structure/content
 - `styles.css` — responsive visual design
 - `script.js` — mobile menu, scroll reveal, demo enquiry form
-- `assets/company-logo.jpg` — supplied Graficon logo
+- `assets/grafiqon-logo.png` — supplied Grafiqon logo
 
 ## Publish with GitHub Pages
 
